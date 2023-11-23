@@ -1,0 +1,14 @@
+////////////////////////////////////////////////////////////////////////////////
+// Created By Etienne KOA
+////////////////////////////////////////////////////////////////////////////////
+
+package academy.learnprogramming.util;
+
+public final class AttributeNames {
+
+	// == fields ==
+	public static final String TODO_ITEM="todoItem";
+
+	// == constructors ==
+	private AttributeNames() {}
+}
