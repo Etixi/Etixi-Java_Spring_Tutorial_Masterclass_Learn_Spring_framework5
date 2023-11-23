@@ -24,6 +24,8 @@
     + Génère du code passe-partout pour `POJO (Plain Old Java Object)`.
     + Il combine `@Guetter, @Setter, @ToSrring, @RequiredArgsConstructor et @EqualsAndHashCode`.
     + Le constructeur n'est pas généré s'il a déjà été déclaré.
+  
+<hr>
 
-
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*gKlHQPGromyhzdz693ZpIA.png" width="800"/>
      
