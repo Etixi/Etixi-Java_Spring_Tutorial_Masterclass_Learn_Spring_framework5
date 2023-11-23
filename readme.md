@@ -27,8 +27,12 @@
 ### **Section 25  : OLD - NEW spring 5 - Install and setup**
 ### **Section 26  : Extra Information - Source code, and other stuff**
 
+<hr>
 
 ## **Aide-mémoire pour les annotations de Spring**
+
+<hr>
+
 
 ### **Annotations importantes**
 
@@ -50,6 +54,7 @@
 |`@Scope`| **utilisé pour définir la portée d'une classe @Component ou d'une définition @Bean et peut être soit un singleton, un prototype, une requête, une session, une session globale ou une portée personnalisée.**                                                                                                                                 |
 |`@Profile`| **ajoute des beans à l'application uniquement lorsque ce profil est actif.**                                                                                                                                                                                                                                                                                                                                         |
 
+<hr>
 
 ### **Annotations importantes sur Spring Boot**
 |annotations| descriptions |
@@ -58,6 +63,7 @@
 |`@Configuration et @ComponentScan`| **Les annotations @Configuration et @ComponentScan que nous avons décrites ci-dessus permettent à Spring de créer et de configurer les beans et les composants de votre application. C'est un excellent moyen de dissocier le code de logique métier réel du câblage de l'application.**         |
 |`@EnableAutoConfiguration`| **Désormais, l' annotation @EnableAutoConfiguration est encore meilleure. Cela fait deviner à Spring la configuration en fonction des fichiers JAR disponibles sur le chemin de classe. Il peut déterminer quelles bibliothèques vous utilisez et préconfigurer leurs composants sans que vous leviez le petit doigt. C'est ainsi que fonctionnent toutes les bibliothèques spring-boot-starter. Cela signifie que c'est une bouée de sauvetage majeure à la fois lorsque vous commencez tout juste à travailler avec une bibliothèque et lorsque vous savez et faites confiance à la configuration par défaut pour être raisonnable.**         |
 
+<hr>
 
 ### **Annotations Web importantes de Spring MVC**
 |annotations| descriptions                                                                                                                                                                                                                                                                                                                                                                                                                   |
