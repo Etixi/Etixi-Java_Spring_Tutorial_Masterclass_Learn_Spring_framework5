@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Section3_NEW_Spring5_Maven_And_Your_First_Project/hello-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/Section5_New_Spring5_Multi_Module_Spring_Project/guess-the-number-game/pom.xml" />
+        <option value="$PROJECT_DIR$/Section5_New_Spring5_Multi_Module_Spring_Project/guess-the-number-game-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/Section6_New_Spring5_Lombock_Introduction/guess-the-number-game-lombock/pom.xml" />
+        <option value="$PROJECT_DIR$/Section6_New_Spring5_Lombock_Introduction/guess-the-number-game-lombock/console/pom.xml" />
+        <option value="$PROJECT_DIR$/todo-list/pom.xml" />
+        <option value="$PROJECT_DIR$/Section7_New_Spring5_Spring_MVC/todo-list/pom.xml" />
+        <option value="$PROJECT_DIR$/Section8_New_Spring5_Spring_Boot2_Introduction/boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Section9_New_Spring5_Spring_Boot2_And_Thymeleaf3/guess-the-number-game-boot-thymeleaf/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="coreant" />
+        <module name="core" />
+        <module name="console" />
+        <module name="web" />
+        <module name="consoleombock" />
+        <module name="hello-maven" />
+        <module name="corelombok" />
+        <module name="boot-demo" />
+        <module name="consoleboot" />
+        <module name="todo-list" />
+        <module name="coreboot" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.28/a2ff5da8bcd8b1b26f36b806ced63213362c6dcc/lombok-1.18.28.jar" />
+        </processorPath>
+        <module name="gradle-demo.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bb-bms.main" target="11" />
+      <module name="bb-bms.test" target="11" />
+      <module name="console (1)" target="10" />
+      <module name="console (2)" target="11" />
+      <module name="consoleboot (1)" target="1.5" />
+      <module name="consoleboot (2)" target="1.5" />
+      <module name="consolelombock" target="10" />
+      <module name="consolelombok" target="10" />
+      <module name="consolombock" target="10" />
+      <module name="core (1)" target="10" />
+      <module name="core (2)" target="11" />
+      <module name="coreant (1)" target="10" />
+      <module name="coreant (2)" target="10" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot-demo" options="-parameters" />
+      <module name="console (2)" options="-parameters" />
+      <module name="consoleboot" options="-parameters" />
+      <module name="core (2)" options="-parameters" />
+      <module name="coreboot" options="-parameters" />
+      <module name="web" options="-parameters" />
+    </option>
+  </component>
+</project>

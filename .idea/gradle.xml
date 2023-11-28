@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Section10_New_Spring5_Gradle_Introduction/gradle-demo" />
+        <option name="gradleJvm" value="corretto-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Section10_New_Spring5_Gradle_Introduction/gradle-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Section_11_New_Spring5_Gradle_Multi_Module_Project_Setup/bb-bms" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Section_11_New_Spring5_Gradle_Multi_Module_Project_Setup/bb-bms" />
+            <option value="$PROJECT_DIR$/Section_11_New_Spring5_Gradle_Multi_Module_Project_Setup/bb-bms/coregradle" />
+            <option value="$PROJECT_DIR$/Section_11_New_Spring5_Gradle_Multi_Module_Project_Setup/bb-bms/webgradle" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
