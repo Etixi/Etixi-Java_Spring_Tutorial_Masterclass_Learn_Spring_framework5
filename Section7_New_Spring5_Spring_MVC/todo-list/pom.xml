@@ -14,7 +14,7 @@
     <properties>
         <logback.version>1.2.3</logback.version>
         <spring.version>5.0.5.RELEASE</spring.version>
-        <java.version>10</java.version>
+        <java.version>11</java.version>
         <annotation-api.version>1.3.2</annotation-api.version>
         <lombock-version>1.18.30</lombock-version>
         <servlet-api.version>3.1.0</servlet-api.version>
