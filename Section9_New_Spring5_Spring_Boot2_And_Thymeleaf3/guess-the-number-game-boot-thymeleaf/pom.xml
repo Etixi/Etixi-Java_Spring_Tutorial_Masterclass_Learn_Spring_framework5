@@ -18,6 +18,7 @@
     <modules>
         <module>coreboot</module>
         <module>consoleboot</module>
+        <module>web</module>
     </modules>
     <packaging>pom</packaging>
 
