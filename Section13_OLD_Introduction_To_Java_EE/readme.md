@@ -180,3 +180,49 @@
  + `<c:out/>` : for outputting data
  + `<c:forEach` : for iterating over collections(in our case, a list).
 
+### **Quizz 4 : Section Introduction à Java EE, Conférences 18, 19 et 20**
+
+#### **Question 1**
++ Lequel des énoncés suivants est correct.
+  + `Service Layer(également appelé Business Layer)` n'est rien d'autre qu'une classe Java qui assume la responsabilité du traitement des données. 
+
+#### **Question 2**
++ `JSTL` signifie `Bibliothèques de balises standard JSP`
+  + VRAI
+
+#### **Question 3**
++ Dans l'expression `@WebServlet("/WelcomeServletNew")`
+  + `/WelcomeSevletNew` est le chemin de la servlet.
+
+
+#### **Question 4**
+
++ `RequestDispatcher` est une interface dont l'implémentation définit un objet qui peut envoyer une requête à toutes les ressources(telles que `HTML`, `Image`, `JSP`, `Servlet`) sur le serveur.
+  + VRAI
+
+
+#### **Question 5**
++ La méthode `doGet` prend les arguments suivants
+  + `HttpServletRequest et HttpServletResponse`
+
+
+#### **Question 6**
++ La méthode `doGet` a type de retour `void` (vide)
+  + VRAI
+
+
+#### **Question 7**
++ `<c:out/>` pour la sortie des données et `<c:forEach/>` pour parcourir les collections.
+  + VRAI
+
+
+#### **Question 8**
++ Les directives `JSP` fournissent des instructions au conteneur Web, lui indiquant comment gérer les aspects pertinents du traitements `JSP`. 
++ Laquelle des propositions suivantes est une directive standard correcte?
+
+  + `<%@ taglib prefix="c" uri="http://java.sum.com/jsp/jstl/core"/>`
+
+#### **Question 9**
++ `${}` est utilisé pour construire l'expression `EL`. `EL` signifie langage d'expression - c'est une syntaxe spéciale pour accéder aux variables au sein de la couche d'existence.
+  + FAUX
+

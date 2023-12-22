@@ -1,30 +1,43 @@
+## **Remarque**
++ **Voici nos l'un de nos derniers Voyage dans la programmation, cela mérite un peu de clarté.**
++ **Nous naviguons entre `Eclipse` et `IntelliJ`**
++ **Merci Monsieur Tim Buchakala**
++ **La Certification [Java 17 MasterClass: Start Coding 2023 est exceptionnel je le recommande encore et encore, c'est un tout (Java 17, 11, 9)](https://www.udemy.com/course/java-the-complete-java-developer-course/).**
+
++ **Nous avons divisé ce projet :**
+    + **Partie `IntelliJ`: Nous permet de moduler et d'insérer des notes**
+    + **Partie `Eclipse` : Puissant logiciel pour Java EE.**
+    + **Tout le MONDE y trouve son compte**
+    + **Les notes de la partie Eclipse viendront un peu plus tard. Il s'agit des parties sans projet (sauf installation)**
+    + **`Angular` reste l'une des dernières parties à achever dans ce domaine.**
+
 ## **Programmes**
 
 ### **Section 1   :  Course Introduction**
 ### **Section 2   :  Install and Setup**
-### **Section 3   :  New Spring 5 - Maven and your first project**
-### **Section 4   :  New Spring 5 - Logging with SLF4J & Logback**
-### **Section 5   :  New Spring 5 - Multi Module Spring Project**
-### **Section 6   :  New Spring 5 - Lombok Introduction**
-### **Section 7   :  New Spring 5 - Spring MVC**
-### **Section 8   : New Spring 5 - Spring Boot 2 Introduction**
-### **Section 9   : New Spring 5 - Spring Boot 2 And Thymeleaf 3**
-### **Section 10  : New Spring 5 - Gradle Introduction**
-### **Section 11  : New Spring 5 - Gradle Multi Module Project Setup**
+### **Section 3   :  New Spring 5 - Maven and your first project (IntelliJ)**
+### **Section 4   :  New Spring 5 - Logging with SLF4J & Logback (IntelliJ)**
+### **Section 5   :  New Spring 5 - Multi Module Spring Project (IntelliJ)**
+### **Section 6   :  New Spring 5 - Lombok Introduction (IntelliJ)**
+### **Section 7   :  New Spring 5 - Spring MVC (IntelliJ)**
+### **Section 8   : New Spring 5 - Spring Boot 2 Introduction (IntelliJ)**
+### **Section 9   : New Spring 5 - Spring Boot 2 And Thymeleaf 3 (IntelliJ)**
+### **Section 10  : New Spring 5 - Gradle Introduction (IntelliJ)**
+### **Section 11  : New Spring 5 - Gradle Multi Module Project Setup (IntelliJ)**
 ### **Section 12  : Installation and Setup - Part1**
 ### **Section 13  : Introduction To Java EE**
-### **Section 14  : OLD - Installation and setup Part2**
-### **Section 15  : Introducing Spring Framework**
-### **Section 16  : Introducing Spring MVC**
-### **Section 17  : Bean Configuration**
-### **Section 18  : Configuration Spring With Annotations**
-### **Section 19  : OLD - Introducing MYSQL**
-### **Section 20  : Working With Spring JDBC**
-### **Section 21  : OLD - Spring MVC in depth - Part1**
-### **Section 22  : OLD - Spring MVC in depth - Part2**
-### **Section 23  : OLD - Spring MVC in depth- Part3(Form and Validation)**
+### **Section 14  : OLD - Installation and setup Part2 (Eclipse)**
+### **Section 15  : Introducing Spring Framework (Eclipse)**
+### **Section 16  : Introducing Spring MVC (Eclipse)**
+### **Section 17  : Bean Configuration (Eclipse)**
+### **Section 18  : Configuration Spring With Annotations (Eclipse)**
+### **Section 19  : OLD - Introducing MYSQL (Eclipse)**
+### **Section 20  : Working With Spring JDBC (Eclipse)**
+### **Section 21  : OLD - Spring MVC in depth - Part1 (Eclipse)**
+### **Section 22  : OLD - Spring MVC in depth - Part2 (Eclipse)**
+### **Section 23  : OLD - Spring MVC in depth- Part3(Form and Validation) (Eclipse)**
 ### **Section 24  : OLD - IntelliJ Spring Section**
-### **Section 25  : OLD - NEW spring 5 - Install and setup**
+### **Section 25  : OLD - NEW spring 5 - Install and setup (IntelliJ)**
 ### **Section 26  : Extra Information - Source code, and other stuff**
 
 <hr>
