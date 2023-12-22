@@ -1,5 +1,5 @@
 ## **Remarque**
-+ **Voici nos l'un de nos derniers Voyage dans la programmation, cela mérite un peu de clarté.**
++ **Voici nos l'un de nos derniers Voyage dans le domaine `JAVA`, cela mérite un peu de clarté.**
 + **Nous naviguons entre `Eclipse` et `IntelliJ`**
 + **Merci Monsieur Tim Buchakala**
 + **La Certification [Java 17 MasterClass: Start Coding 2023 est exceptionnel je le recommande encore et encore, c'est un tout (Java 17, 11, 9)](https://www.udemy.com/course/java-the-complete-java-developer-course/).**
