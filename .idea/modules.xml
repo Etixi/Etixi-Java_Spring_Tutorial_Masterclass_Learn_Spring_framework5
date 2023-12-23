@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Etixi-Java_Spring_Tutorial_Masterclass_Learn_Spring_framework5.iml" filepath="$PROJECT_DIR$/.idea/Etixi-Java_Spring_Tutorial_Masterclass_Learn_Spring_framework5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section24_OLD_IntelliJ_Spring_Section/spring-mvc-demo-intellij-demo/spring-mvc-intellij-demo.iml" filepath="$PROJECT_DIR$/Section24_OLD_IntelliJ_Spring_Section/spring-mvc-demo-intellij-demo/spring-mvc-intellij-demo.iml" />
     </modules>
   </component>
 </project>
